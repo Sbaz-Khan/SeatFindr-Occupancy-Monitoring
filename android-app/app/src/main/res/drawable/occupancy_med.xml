@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Right Man -->
+    <item
+        android:drawable="@drawable/man_silhouette"
+        android:left="30dp" />
+
+    <!-- Center Man -->
+    <item
+        android:drawable="@drawable/man_silhouette_yellow"
+        android:gravity="center" />
+
+    <!-- Left Man -->
+    <item
+        android:drawable="@drawable/man_silhouette_yellow"
+        android:right="30dp" />
+</layer-list>
